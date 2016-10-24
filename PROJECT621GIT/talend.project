@@ -156,7 +156,6 @@
     <migrationTask xmi:id="_KFbsl0hEEeaCVZMHPYvDTg" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_KFbsmEhEEeaCVZMHPYvDTg" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_KFbsmUhEEeaCVZMHPYvDTg" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_KFbsmkhEEeaCVZMHPYvDTg" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_KFbsm0hEEeaCVZMHPYvDTg" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_KFbsnEhEEeaCVZMHPYvDTg" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="ok"/>
     <migrationTask xmi:id="_KFbsnUhEEeaCVZMHPYvDTg" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -326,6 +325,7 @@
     <migrationTask xmi:id="_KFcTtEhEEeaCVZMHPYvDTg" id="org.talend.repository.generic.model.migration.Salesforce620WizardMigration" breaks="6.2.1" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_KFcTtUhEEeaCVZMHPYvDTg" id="org.talend.repository.model.migration.AddDefaultVersionValueForElasticsearchLookupInput" breaks="6.2.0" version="6.2.1" status="noimpact"/>
     <migrationTask xmi:id="_KFcTtkhEEeaCVZMHPYvDTg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_67AIoZntEeauFMmQf3zc3w" id="org.talend.repository.hadoopcluster.model.migration.MoveHDFSAndHCatalogToHadoopFolderMigrationTask" breaks="5.3.0" version="5.3.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Gfcc4khEEeaCVZMHPYvDTg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_JoUSUEhEEeaCVZMHPYvDTg" login="git1@company.com" firstName="git1" lastName="git1" type="DI" additionnalData="{}"/>
