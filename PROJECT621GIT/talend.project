@@ -366,4 +366,5 @@
   <TalendProperties:User xmi:id="_Gfcc4khEEeaCVZMHPYvDTg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_JoUSUEhEEeaCVZMHPYvDTg" login="git1@company.com" firstName="git1" lastName="git1" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_ajgUULJAEearLKMzmF0vOQ" login="user1@company.com" firstName="user1" lastName="user1" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_exd7cLu1EeaRX8rq5jyD2w" login="Trigger-Runner" type="DI"/>
 </xmi:XMI>
