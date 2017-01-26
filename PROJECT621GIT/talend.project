@@ -364,10 +364,10 @@
     <migrationTask xmi:id="_8qOqtJntEeauFMmQf3zc3w" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Gfcc4khEEeaCVZMHPYvDTg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_JoUSUEhEEeaCVZMHPYvDTg" login="git1@company.com" firstName="git1" lastName="git1" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_ajgUULJAEearLKMzmF0vOQ" login="user1@company.com" firstName="user1" lastName="user1" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_exd7cLu1EeaRX8rq5jyD2w" login="Trigger-Runner" type="DI"/>
   <TalendProperties:ProjectReference xmi:id="_Dgq_sOO1EeaDmo0604gflQ" project="_Gfcc4UhEEeaCVZMHPYvDTg" branch="master" referencedBranch="master">
     <referencedProject href="../PROJECT621GITREF/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
+  <TalendProperties:User xmi:id="_JoUSUEhEEeaCVZMHPYvDTg" login="git1@company.com" firstName="git1" lastName="git1" type="DI" additionnalData="{}"/>
 </xmi:XMI>
